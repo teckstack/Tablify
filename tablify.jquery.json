@@ -1,0 +1,27 @@
+{
+    "name": "tablify",
+    "title": "jQuery Tablify",
+    "description": "jQuery plugin for table utility classes",
+    "keywords": [
+        "table",
+        "table-classes"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Kushal Jayswal",
+        "url": "https://github.com/kutec"
+    },
+    "licenses": [
+        {
+            "type": "Apache 2.0",
+            "url": "https://github.com/teckstack/Tablify/blob/gh-pages/LICENSE"
+        }
+    ],
+    "bugs": "https://github.com/teckstack/Tablify/issues",
+    "homepage": "https://github.com/teckstack/Tablify",
+    "docs": "https://github.com/teckstack/Tablify",
+    "download": "https://github.com/teckstack/Tablify/archive/gh-pages.zip",
+    "dependencies": {
+        "jquery": ">=1.11.2"
+    }
+}
