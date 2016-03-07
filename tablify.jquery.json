@@ -1,42 +1,35 @@
 {
-    "name": "teckstack-table-classes",
-    "title": "jQuery Table Classes",
-    "description": "jQuery plugin for table utility classes",
-    "keywords": [
-        "jquery",
-        "table",
-        "table-classes",
-        "classes",
-        "utility-classes",
-        "table-utility-classes",
-        "jquery-table"
-    ],
-    "version": "0.1.0",
-    "author": {
-        "name": "Kushal Jayswal",
-        "url": "https://kjayz.com"
-    },
-    "maintainers": [
+  "name": "ts-jquery-table-classes",
+  "version": "0.1.0",
+  "title": "jQuery Table Classes",
+  "description": "jQuery Table Utility Classes that helps to manipulate table cross browsers",
+  "keywords": [
+    "jquery",
+    "cross-browser"
+    "table",
+    "table-classes",
+    "table-utility-classes",
+    "utility-classes"
+  ],
+  "homepage": "https://github.com/teckstack/jQuery-Table-Classes",
+  "author": {
+    "name": "Kushal Jayswal",
+    "url": "https://kjayz.com"
+  },
+  "maintainers": [
     {
-        "name": "Kushal Jayswal",
-        "url": "https://kjayz.com"
+      "name": "Kushal Jayswal",
+      "url": "https://kjayz.com"
     }
-    "licenses": [
-        {
-            "type": "Apache 2.0",
-            "url": "https://github.com/teckstack/jQuery-Table-Classes/blob/gh-pages/LICENSE"
-        }
-    ],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/teckstack/jQuery-Table-Classes.git"
-    },
-    "bugs": "https://github.com/teckstack/jQuery-Table-Classes/issues",
-    "main": "js/tablify.js",
-    "homepage": "https://github.com/teckstack/jQuery-Table-Classes",
-    "docs": "https://github.com/teckstack/jQuery-Table-Classes",
-    "download": "https://github.com/teckstack/jQuery-Table-Classes/archive/gh-pages.zip",
-    "dependencies": {
-        "jquery": ">=1.11.2"
-    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/teckstack/jQuery-Table-Classes.git"
+  },
+  "bugs": "https://github.com/teckstack/jQuery-Table-Classes/issues",
+  "license": "Apache 2.0",
+  "main": "js/jquery.tableClasses.js",
+  "devDependencies": {
+    "jquery": "1.11.2"
+  }
 }
