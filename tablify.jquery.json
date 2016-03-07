@@ -1,26 +1,41 @@
 {
-    "name": "tablify",
-    "title": "jQuery Tablify",
+    "name": "teckstack-table-classes",
+    "title": "jQuery Table Classes",
     "description": "jQuery plugin for table utility classes",
     "keywords": [
+        "jquery",
         "table",
-        "table-classes"
+        "table-classes",
+        "classes",
+        "utility-classes",
+        "table-utility-classes",
+        "jquery-table"
     ],
     "version": "0.1.0",
     "author": {
         "name": "Kushal Jayswal",
-        "url": "https://github.com/kutec"
+        "url": "https://kjayz.com"
     },
+    "maintainers": [
+    {
+        "name": "Kushal Jayswal",
+        "url": "https://kjayz.com"
+    }
     "licenses": [
         {
             "type": "Apache 2.0",
-            "url": "https://github.com/teckstack/Tablify/blob/gh-pages/LICENSE"
+            "url": "https://github.com/teckstack/jQuery-Table-Classes/blob/gh-pages/LICENSE"
         }
     ],
-    "bugs": "https://github.com/teckstack/Tablify/issues",
-    "homepage": "https://github.com/teckstack/Tablify",
-    "docs": "https://github.com/teckstack/Tablify",
-    "download": "https://github.com/teckstack/Tablify/archive/gh-pages.zip",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/teckstack/jQuery-Table-Classes.git"
+    },
+    "bugs": "https://github.com/teckstack/jQuery-Table-Classes/issues",
+    "main": "js/tablify.js",
+    "homepage": "https://github.com/teckstack/jQuery-Table-Classes",
+    "docs": "https://github.com/teckstack/jQuery-Table-Classes",
+    "download": "https://github.com/teckstack/jQuery-Table-Classes/archive/gh-pages.zip",
     "dependencies": {
         "jquery": ">=1.11.2"
     }
